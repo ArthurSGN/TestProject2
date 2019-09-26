@@ -4,6 +4,7 @@ public class Test {
         String a = "Test one Test";
         System.out.println(a);
         System.out.println("code updating");
+        System.out.println("code new updating");
     }
 
 }
