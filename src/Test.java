@@ -5,6 +5,7 @@ public class Test {
         System.out.println(a);
         System.out.println("code updating");
         System.out.println("code new updating");
+        System.out.println("third updating");
     }
 
 }
